@@ -1,0 +1,13 @@
+{
+  "name": "genpark-bron-kerbosch-clique-enumeration-skill",
+  "version": "1.0.0",
+  "description": "Bron-Kerbosch backtracking algorithm with pivoting for listing all maximal cliques in undirected social, knowledge, and cluster graphs.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "bron-kerbosch",
+    "clique-enumeration",
+    "maximal-clique",
+    "graph-mining"
+  ]
+}
